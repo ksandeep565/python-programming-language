@@ -1,0 +1,12 @@
+per1=int(input("enter the value:"))
+per2=int(input("enter the value:"))
+if per1 > per2:
+  print("to the per1 fever is more then per2")
+elif per1==per2:
+  print("fever is same for two persons")
+elif per1<per2:
+  print(" to persons1 fever is less then person2")
+output:
+enter the value:89
+enter the value:38
+to the per1 fever is more then per2
